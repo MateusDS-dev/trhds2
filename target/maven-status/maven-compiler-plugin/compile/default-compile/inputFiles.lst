@@ -1,0 +1,12 @@
+/Users/macbookpro/Documents/trhd2/src/main/java/br/edu/rotavital/dto/BenchmarkRequest.java
+/Users/macbookpro/Documents/trhd2/src/main/java/br/edu/rotavital/dto/BenchmarkResponse.java
+/Users/macbookpro/Documents/trhd2/src/main/java/br/edu/rotavital/model/DonorStock.java
+/Users/macbookpro/Documents/trhd2/src/main/java/br/edu/rotavital/RotaVitalApplication.java
+/Users/macbookpro/Documents/trhd2/src/main/java/br/edu/rotavital/service/SequentialProcessor.java
+/Users/macbookpro/Documents/trhd2/src/main/java/br/edu/rotavital/controller/BenchmarkController.java
+/Users/macbookpro/Documents/trhd2/src/main/java/br/edu/rotavital/model/BloodType.java
+/Users/macbookpro/Documents/trhd2/src/main/java/br/edu/rotavital/model/BloodRequest.java
+/Users/macbookpro/Documents/trhd2/src/main/java/br/edu/rotavital/service/ParallelProcessor.java
+/Users/macbookpro/Documents/trhd2/src/main/java/br/edu/rotavital/service/BenchmarkService.java
+/Users/macbookpro/Documents/trhd2/src/main/java/br/edu/rotavital/service/CompatibilityService.java
+/Users/macbookpro/Documents/trhd2/src/main/java/br/edu/rotavital/service/DataGeneratorService.java

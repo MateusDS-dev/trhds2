@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.edu.rotavital.RotaVitalBenchmarkTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.288 s -- in br.edu.rotavital.RotaVitalBenchmarkTest

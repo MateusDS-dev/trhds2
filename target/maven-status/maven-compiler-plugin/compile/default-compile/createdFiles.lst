@@ -1,0 +1,14 @@
+br/edu/rotavital/service/ParallelProcessor.class
+br/edu/rotavital/model/BloodRequest.class
+br/edu/rotavital/model/BloodType.class
+br/edu/rotavital/model/BloodRequest$Urgency.class
+br/edu/rotavital/service/BenchmarkService.class
+br/edu/rotavital/dto/BenchmarkRequest.class
+br/edu/rotavital/dto/BenchmarkResponse.class
+br/edu/rotavital/controller/BenchmarkController.class
+br/edu/rotavital/service/CompatibilityService.class
+br/edu/rotavital/service/SequentialProcessor$ProcessingResult.class
+br/edu/rotavital/model/DonorStock.class
+br/edu/rotavital/RotaVitalApplication.class
+br/edu/rotavital/service/DataGeneratorService.class
+br/edu/rotavital/service/SequentialProcessor.class
